@@ -102,5 +102,5 @@ This will fetch the balance sheet data for all S&P 500 companies and save them a
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is open-source and available under the MIT License.
 
